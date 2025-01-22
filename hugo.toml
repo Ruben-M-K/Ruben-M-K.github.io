@@ -1,4 +1,4 @@
-baseURL = "http://www.rubenkoch-se.de"
+baseURL = "http://rubenkoch-se.de"
 title = "rubenkoch-se"
 theme = "hugo-coder."
 defaultContentLanguage = 'en'
