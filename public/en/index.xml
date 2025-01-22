@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rubenkoch-se</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on rubenkoch-se</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;Hi, my name is Ruben, and I am a 22-year-old computer science student from Hesse, Germany.&#xA;Currently, I am still in the midst of my bachelor&amp;rsquo;s studies, but due to work experience, I have already dealt with many different frameworks. Now, I am stepping into the role of a freelancer and offering my skills to clients who have an idea and want to implement it easily and without much effort on their part.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;h2 id=&#34;e-mail&#34;&gt;&#xA;  E-Mail&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#e-mail&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:rmkoch52@gmail.com&#34; &gt;rmkoch52@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;impressum&#34;&gt;&#xA;  Impressum&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#impressum&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Following soon&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

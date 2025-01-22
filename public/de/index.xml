@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rubenkoch-se</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content on rubenkoch-se</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/contact/</guid>
+      <description>&lt;h2 id=&#34;e-mail&#34;&gt;&#xA;  E-Mail&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#e-mail&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:rmkoch52@gmail.com&#34; &gt;rmkoch52@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;impressum&#34;&gt;&#xA;  Impressum&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#impressum&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Folgt demnächst&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über mich</title>
+      <link>http://localhost:1313/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/about/</guid>
+      <description>&lt;p&gt;Hi mein Name ist Ruben und ich bin ein 22 jähriger Informatik Student aus Hessen.&#xA;Aktuell befinde ich mich noch in Mitten meines Bachelor Studiums, habe aber Arbeits&#xA;bedingt schon mit sehr vielen verschiedenen Frameworks zu tun gehabt. Nun trete ich als&#xA;Freelancer auf und biete meine Skills gezielt Kunden an, die eine Idee haben und diese&#xA;einfach und ohne viel Eigenaufwand umsetzen wollen&lt;/p&gt;&#xA;&lt;h2 id=&#34;angebot&#34;&gt;&#xA;  Angebot&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#angebot&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App Development -&amp;gt; iOS and Andorid in Abhängigkeit der Komplexizität&lt;/li&gt;&#xA;&lt;li&gt;Backend Development&lt;/li&gt;&#xA;&lt;li&gt;statische Websites für Personen oder Unternehmen&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
